@@ -21,6 +21,7 @@ To consolidate and analyze rental data from the Sakila database through a dimens
 
 - **PostgreSQL** - DW and source database
 - **Python** with `Pandas` and `SQLAlchemy` - ETL implementation
+- **Docker** - create, deploy, and manage the application in container
 - **Metabase** - Dashboard and data visualization
 - **DBeaver** - Database management
 - **PyCharm** - Python development environment
