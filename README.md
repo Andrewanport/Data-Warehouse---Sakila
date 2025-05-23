@@ -3,6 +3,15 @@
 This project consists of building a **Data Warehouse (DW)** based on the [Sakila database](https://dev.mysql.com/doc/sakila/en/) using PostgreSQL. It was developed for academic purposes to demonstrate skills in data modeling, ETL processes, and dashboard creation using Metabase.
 
 ---
+## 🔎 Metabase Visualization
+
+![gif1](https://github.com/user-attachments/assets/e3c4dabe-ee3b-4d13-9123-eeac06102547)
+
+![gif2](https://github.com/user-attachments/assets/d324089d-22ed-40ac-9d25-39ccc303f40f)
+
+![gif3](https://github.com/user-attachments/assets/71b150df-7f13-4472-8052-19835bd98eb2)
+
+---
 
 ## 🚀 Objective
 
